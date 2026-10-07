@@ -1,0 +1,7 @@
+pandas
+odfpy
+openpyxl
+spacy
+# Optional, only for `04_lexical_exploration.py --form lemma`.
+# If `pip install morfeusz2` fails, use the wheel from https://morfeusz.sgjp.pl/download/
+morfeusz2
