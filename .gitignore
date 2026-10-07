@@ -1,0 +1,10 @@
+# Raw and processed data contain participant responses -- never commit them
+data/raw/
+data/processed/
+
+# R / OS artefacts
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+.DS_Store
